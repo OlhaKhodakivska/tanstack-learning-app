@@ -1,0 +1,22 @@
+.card {
+  background-color: #f5f5f5; /* Grey accent */
+  border-left: 5px solid #2e7d32; /* Green main */
+  padding: 16px;
+  margin-bottom: 12px;
+  border-radius: 4px;
+}
+.title {
+  color: #2e7d32;
+  margin-top: 0;
+  text-transform: capitalize;
+}
+.body {
+  color: #333333;
+}
+.meta {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.85rem;
+  color: #757575;
+  margin-top: 8px;
+}
